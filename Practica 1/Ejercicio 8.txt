@@ -1,0 +1,8 @@
+8. Python permite convertir elementos de un tipo a otro. Lleva a cabo las 
+siguientes conversiones y comenta los resultados:
+
+texto_numerico = "45" --> Cambia la clase de un entero a un str
+int (texto_numerico) --> Cambia la clase del texto de nuevo a un entero
+int ("Hola") --> No deja hacer esta conversion
+int (3.99999) --> Cambia la clase del numero a un entero y sale como resultado 3
+float (34) --> Cambia la clase a un numero flotante y sale como resultado 34.0
